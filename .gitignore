@@ -1,0 +1,15 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore build artifacts
+dist/
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore environment-specific files
+.env.local
+.env.development
+.env.test
+.env.production
